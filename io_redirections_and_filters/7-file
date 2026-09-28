@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "Best School\n" > "$(printf '\052\134\047\042Best School\042\047\134\052\044\137\052\052\052\052\052\072\051')"
+printf "Best School\n" > '\*\\'\''"Best School"\'\'\\*$\?\*\*\*\*\*:)`'
