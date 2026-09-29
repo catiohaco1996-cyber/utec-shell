@@ -7,3 +7,5 @@ Este proyecto contiene scripts de Bash para el aprendizaje del manejo de archivo
 * **0-alias**: Crea un alias llamado `ls` que ejecuta el comando `rm -f *`.
 
 * **1-hello_you**: Imprime "hello " seguido del nombre del usuario actual de Linux.
+
+* **2-path**: Añade el directorio `/action` al final de la variable PATH del sistema. 
