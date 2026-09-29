@@ -19,3 +19,5 @@ Este proyecto contiene scripts de Bash para el aprendizaje del manejo de archivo
 * **6-create_local_variable**: Crea una variable local llamada BEST con el valor School.
 
 * **7-create_global_variable**: Crea una variable global llamada BEST con el valor School usando export.
+
+* **8-true_knowledge**: Imprime el resultado de sumar 128 al valor almacenado en la variable TRUEKNOWLEDGE.
