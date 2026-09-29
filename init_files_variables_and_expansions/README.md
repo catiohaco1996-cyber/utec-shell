@@ -17,3 +17,5 @@ Este proyecto contiene scripts de Bash para el aprendizaje del manejo de archivo
 * **5-local_variables**: Lista todas las variables locales, de entorno y las funciones de la sesión actual de Bash.
 
 * **6-create_local_variable**: Crea una variable local llamada BEST con el valor School.
+
+* **7-create_global_variable**: Crea una variable global llamada BEST con el valor School usando export.
