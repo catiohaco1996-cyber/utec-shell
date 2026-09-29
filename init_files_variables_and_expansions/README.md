@@ -27,3 +27,5 @@ Este proyecto contiene scripts de Bash para el aprendizaje del manejo de archivo
 * **10-love_exponent_breath**: Imprime el resultado de elevar la variable BREATH a la potencia de la variable LOVE.
 
 * **11-binary_to_decimal**: Convierte un número binario almacenado en la variable BINARY a base 10.
+
+* **12-combinations**: Imprime todas las combinaciones posibles de dos letras de la 'aa' a la 'zz', excepto 'oo'.
