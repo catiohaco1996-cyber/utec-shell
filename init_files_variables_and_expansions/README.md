@@ -11,3 +11,5 @@ Este proyecto contiene scripts de Bash para el aprendizaje del manejo de archivo
 * **2-path**: Añade el directorio `/action` al final de la variable PATH del sistema. 
 
 * **3-paths**: Cuenta y muestra el número de directorios incluidos en la variable PATH del sistema.
+
+* **4-global_variables**: Lista todas las variables de entorno o globales del sistema.
