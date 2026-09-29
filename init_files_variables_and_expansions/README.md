@@ -21,3 +21,5 @@ Este proyecto contiene scripts de Bash para el aprendizaje del manejo de archivo
 * **7-create_global_variable**: Crea una variable global llamada BEST con el valor School usando export.
 
 * **8-true_knowledge**: Imprime el resultado de sumar 128 al valor almacenado en la variable TRUEKNOWLEDGE.
+
+* **9-divide_and_rule**: Imprime el resultado de la división de la variable POWER por la variable DIVIDE.
