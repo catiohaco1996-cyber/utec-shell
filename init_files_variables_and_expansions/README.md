@@ -29,3 +29,5 @@ Este proyecto contiene scripts de Bash para el aprendizaje del manejo de archivo
 * **11-binary_to_decimal**: Convierte un número binario almacenado en la variable BINARY a base 10.
 
 * **12-combinations**: Imprime todas las combinaciones posibles de dos letras de la 'aa' a la 'zz', excepto 'oo'.
+
+* **13-print_float**: Imprime el número almacenado en la variable NUM con exactamente dos decimales.
