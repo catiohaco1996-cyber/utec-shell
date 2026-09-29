@@ -9,3 +9,5 @@ Este proyecto contiene scripts de Bash para el aprendizaje del manejo de archivo
 * **1-hello_you**: Imprime "hello " seguido del nombre del usuario actual de Linux.
 
 * **2-path**: Añade el directorio `/action` al final de la variable PATH del sistema. 
+
+* **3-paths**: Cuenta y muestra el número de directorios incluidos en la variable PATH del sistema.
