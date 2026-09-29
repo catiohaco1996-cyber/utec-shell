@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Best School" > "$(printf '%b' '\x5c\x2a\x5c\x27\x22Best School\x22\x27\x5c\x2a\x24\x21\x3f\x2a\x5f\x2a\x5f\x2a\x3a')"
+echo "Best School" > "\\*\\\\\\'\"Best School\"\\'\\\\\\*\\$\\!?\\*_\\*_\\*"
