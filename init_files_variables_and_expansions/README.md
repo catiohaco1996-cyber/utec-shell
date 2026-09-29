@@ -31,3 +31,5 @@ Este proyecto contiene scripts de Bash para el aprendizaje del manejo de archivo
 * **12-combinations**: Imprime todas las combinaciones posibles de dos letras de la 'aa' a la 'zz', excepto 'oo'.
 
 * **13-print_float**: Imprime el número almacenado en la variable NUM con exactamente dos decimales.
+
+* **14-decimal_to_hexadecimal**: Convierte un número decimal almacenado en la variable DECIMAL a formato hexadecimal en minúsculas.
