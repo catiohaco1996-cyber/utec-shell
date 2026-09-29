@@ -23,3 +23,5 @@ Este proyecto contiene scripts de Bash para el aprendizaje del manejo de archivo
 * **8-true_knowledge**: Imprime el resultado de sumar 128 al valor almacenado en la variable TRUEKNOWLEDGE.
 
 * **9-divide_and_rule**: Imprime el resultado de la división de la variable POWER por la variable DIVIDE.
+
+* **10-love_exponent_breath**: Imprime el resultado de elevar la variable BREATH a la potencia de la variable LOVE.
